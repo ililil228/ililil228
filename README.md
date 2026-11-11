@@ -19,8 +19,15 @@
 ---
 
 ## 🎥 Демонстрация работы / Live Demo
-##Обучение/learning 🎓
+Обучение/learning 🎓
 <img width="1888" height="897" alt="Work" src="https://github.com/user-attachments/assets/e904c2b6-efb5-48f0-9c7d-b12cd2bc2885" />
+
+
+Ответ модели/ model's response 💌
+
+<img width="896" height="757" alt="Answer" src="https://github.com/user-attachments/assets/cd0c78ea-262d-4be2-a5df-d3bfd4ec0864" />
+
+
 
 ---
 
