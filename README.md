@@ -1,10 +1,11 @@
 # 🤖 MY_AI V2 — Custom Russian Transformer-Decoder (PyTorch + DirectML)
 
-![PyTorch](https://shields.io)
-![AMD](https://shields.io)
-![DirectML](https://shields.io)
-![Streamlit](https://shields.io)
-![Russian Only](https://shields.io)
+<p align="left">
+  <img src="https://flaticon.com" alt="AMD" height="40" />
+  <img src="https://gstatic.com" alt="PyTorch" height="40" />
+  <img src="https://icepanel.io" alt="Streamlit" height="40" />
+  <img src="https://gstatic.com" alt="Russia" height="40" />
+</p>
 
 > **Самодельный русскоязычный трансформер-декодер (11.56M параметров) на PyTorch, оптимизированный под видеокарты AMD через DirectML.**  
 > *A custom Russian-only Decoder-only Transformer (11.56M parameters) built with PyTorch and optimized for AMD GPUs via DirectML.*
