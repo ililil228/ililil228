@@ -59,6 +59,12 @@
 * **Frontend / Control Panel:** Streamlit (`app.py` — графики Loss в реальном времени, замер `шаг/мин`, ETA, чат-инференс и диагностика чекпоинтов)
 * **Quick Launch:** Интерактивный `start.bat` для Windows
 
+* ## 📦 Скачать веса модели и датасеты / Download Weights & Datasets
+
+Из-за ограничений GitHub на размер файлов обученные веса и подготовленные датасеты собраны в одном месте на Google Диске:
+
+* **📥 Скачать всё одним архивом/папкой:** [Google Диск (Веса модели + Датасеты)](https://drive.google.com/file/d/1vZa9tCLBliAjmEhF-2PuVfyWuZAIKv02/view?usp=sharing)
+
 ---
 
 ## 🚀 Быстрый запуск (Windows) / Quick Start
