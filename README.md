@@ -20,7 +20,7 @@
 
 ## 🎥 Демонстрация работы / Live Demo
 
-*(Вставь сюда свою GIF-анимацию: просто перетащи `.gif` файл мышкой в это место при редактировании README на GitHub)*
+<img width="1888" height="897" alt="Work" src="https://github.com/user-attachments/assets/e904c2b6-efb5-48f0-9c7d-b12cd2bc2885" />
 
 ---
 
