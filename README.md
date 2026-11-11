@@ -1,11 +1,7 @@
 # 🤖 MY_AI V2 — Custom Russian Transformer-Decoder (PyTorch + DirectML)
 
-<p align="left">
-  <img src="[https://flaticon.com](https://www.google.com/imgres?q=amd%20%D0%B7%D0%BD%D0%B0%D1%87%D0%BE%D0%BA&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F888%2F888838.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Fru%2Ffree-icon%2Famd_888838&docid=2YSYh-WwhjkjiM&tbnid=tBL5ZMhEjqMKkM&vet=12ahUKEwiLtrabvoCYAxWGHBAIHeQMAPAQnPAOegQILBAA..i&w=512&h=512&hcb=2&ved=2ahUKEwiLtrabvoCYAxWGHBAIHeQMAPAQnPAOegQILBAA)" alt="AMD" height="40" />
-  <img src="https://gstatic.com" alt="PyTorch" height="40" />
-  <img src="https://icepanel.io" alt="Streamlit" height="40" />
-  <img src="https://gstatic.com" alt="Russia" height="40" />
-</p>
+<img width="515" height="388" alt="image" src="https://github.com/user-attachments/assets/e41d6efc-901d-4f53-8607-8f6dfff5d8fa" />
+
 
 > **Самодельный русскоязычный трансформер-декодер (11.56M параметров) на PyTorch, оптимизированный под видеокарты AMD через DirectML.**  
 > *A custom Russian-only Decoder-only Transformer (11.56M parameters) built with PyTorch and optimized for AMD GPUs via DirectML.*
