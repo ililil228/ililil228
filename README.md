@@ -1,7 +1,7 @@
 # 🤖 MY_AI V2 — Custom Russian Transformer-Decoder (PyTorch + DirectML)
 
 <p align="left">
-  <img src="https://flaticon.com" alt="AMD" height="40" />
+  <img src="[https://flaticon.com](https://www.google.com/imgres?q=amd%20%D0%B7%D0%BD%D0%B0%D1%87%D0%BE%D0%BA&imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F888%2F888838.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Fru%2Ffree-icon%2Famd_888838&docid=2YSYh-WwhjkjiM&tbnid=tBL5ZMhEjqMKkM&vet=12ahUKEwiLtrabvoCYAxWGHBAIHeQMAPAQnPAOegQILBAA..i&w=512&h=512&hcb=2&ved=2ahUKEwiLtrabvoCYAxWGHBAIHeQMAPAQnPAOegQILBAA)" alt="AMD" height="40" />
   <img src="https://gstatic.com" alt="PyTorch" height="40" />
   <img src="https://icepanel.io" alt="Streamlit" height="40" />
   <img src="https://gstatic.com" alt="Russia" height="40" />
