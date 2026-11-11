@@ -1,8 +1,13 @@
 # 🤖 MY_AI V2 — Custom Russian Transformer-Decoder (PyTorch + DirectML)
 
-<img src="https://github.com/user-attachments/assets/4883f368-31d3-4627-bf62-09dd5e838dfe" height="40" />
-
-
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/db221fa5-94d7-45a9-aab1-aa13633b6150" alt="Python" height="38" />&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/9527ccaa-5498-4346-8a38-d8c9949e6cad" alt="PyTorch" height="38" />&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/4883f368-31d3-4627-bf62-09dd5e838dfe" alt="AMD" height="38" />&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/a3096208-befe-40c3-9e65-650a53d57225" alt="DirectX / DirectML" height="38" />&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/bb346d18-ba09-4b6e-9603-fa8d94efa975" alt="Streamlit" height="38" />&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/0af4281f-e4dd-464b-b0c5-d51c74e5037c" alt="Russian Language" height="38" />
+</p>
 
 
 > **Самодельный русскоязычный трансформер-декодер (11.56M параметров) на PyTorch, оптимизированный под видеокарты AMD через DirectML.**  
