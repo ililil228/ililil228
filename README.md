@@ -19,7 +19,7 @@
 ---
 
 ## 🎥 Демонстрация работы / Live Demo
-
+##Обучение/learning 🎓
 <img width="1888" height="897" alt="Work" src="https://github.com/user-attachments/assets/e904c2b6-efb5-48f0-9c7d-b12cd2bc2885" />
 
 ---
